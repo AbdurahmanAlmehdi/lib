@@ -1,0 +1,526 @@
+{
+  "@@locale": "en",
+  "appTitle": "Buzzy Bee",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab label"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Generic error title"
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Generic success title"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button text"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  "noInternetConnection": "No internet connection. Please check your network.",
+  "@noInternetConnection": {
+    "description": "No internet error message"
+  },
+  "serverError": "Server error occurred. Please try again later.",
+  "@serverError": {
+    "description": "Server error message"
+  },
+  "popularCleaners": "Popular Cleaners",
+  "@popularCleaners": {
+    "description": "Popular cleaners section title"
+  },
+  "serviceCategories": "Service Categories",
+  "@serviceCategories": {
+    "description": "Service categories section title"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "selectDate": "Select Date",
+  "@selectDate": {
+    "description": "Select date label"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Next button text"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous button text"
+  },
+  "selectCleaners": "Select Number of Cleaners",
+  "@selectCleaners": {
+    "description": "Select cleaners count label"
+  },
+  "availableCleaners": "Available Cleaners",
+  "@availableCleaners": {
+    "description": "Available cleaners section title"
+  },
+  "selectLocation": "Select Location",
+  "@selectLocation": {
+    "description": "Select location label"
+  },
+  "confirmBooking": "Confirm Booking",
+  "@confirmBooking": {
+    "description": "Confirm booking button text"
+  },
+  "search": "Search services...",
+  "@search": {
+    "description": "Search bar placeholder text"
+  },
+  "orders": "Orders",
+  "@orders": {
+    "description": "Orders screen title"
+  },
+  "all": "All",
+  "@all": {
+    "description": "All filter tab"
+  },
+  "inProgress": "In Progress",
+  "@inProgress": {
+    "description": "In Progress filter tab"
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed filter tab"
+  },
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Cancelled filter tab"
+  },
+  "noOrders": "No orders found",
+  "@noOrders": {
+    "description": "Empty orders list message"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorites screen title"
+  },
+  "noFavorites": "No favorites yet",
+  "@noFavorites": {
+    "description": "Empty favorites list message"
+  },
+  "price": "Price",
+  "@price": {
+    "description": "Price label"
+  },
+  "currency": "LYD",
+  "@currency": {
+    "description": "Currency symbol"
+  },
+  "confirmed": "Confirmed",
+  "@confirmed": {
+    "description": "Confirmed status"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "Account screen title"
+  },
+  "phone": "Phone",
+  "@phone": {
+    "description": "Phone label"
+  },
+  "support": "Support",
+  "@support": {
+    "description": "Support menu item"
+  },
+  "termsAndConditions": "Terms & Conditions",
+  "@termsAndConditions": {
+    "description": "Terms and conditions menu item"
+  },
+  "logoutConfirmation": "Are you sure you want to logout?",
+  "@logoutConfirmation": {
+    "description": "Logout confirmation message"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  "welcomeToBuzzyBee": "Welcome to Buzzy Bee",
+  "@welcomeToBuzzyBee": {
+    "description": "Welcome to Buzzy Bee message"
+  },
+  "yourTrustedCleaningServicePartner": "Your trusted cleaning service partner",
+  "@yourTrustedCleaningServicePartner": {
+    "description": "Your trusted cleaning service partner message"
+  },
+  "dontHaveAnAccount": "Don't have an account?",
+  "@dontHaveAnAccount": {
+    "description": "Don't have an account message"
+  },
+  "pleaseEnterYourPhoneNumber": "Please enter your phone number",
+  "@pleaseEnterYourPhoneNumber": {
+    "description": "Please enter your phone number message"
+  },
+  "pleaseEnterYourPassword": "Please enter your password",
+  "@pleaseEnterYourPassword": {
+    "description": "Please enter your password message"
+  },
+  "pleaseEnterYourName": "Please enter your name",
+  "@pleaseEnterYourName": {
+    "description": "Please enter your name message"
+  },
+  "pleaseEnterYourEmail": "Please enter your email",
+  "@pleaseEnterYourEmail": {
+    "description": "Please enter your email message"
+  },
+  "pleaseEnterAValidEmail": "Please enter a valid email",
+  "@pleaseEnterAValidEmail": {
+    "description": "Please enter a valid email message"
+  },
+  "pleaseEnterAValidPhoneNumber": "Please enter a valid phone number",
+  "@pleaseEnterAValidPhoneNumber": {
+    "description": "Please enter a valid phone number message"
+  },
+  "registrationSuccessful": "Registration successful! Please login.",
+  "@registrationSuccessful": {
+    "description": "Registration successful message"
+  },
+  "signUpAndLetUsHandleTheMess": "Sign up and let us handle the mess",
+  "@signUpAndLetUsHandleTheMess": {
+    "description": "Sign up and let us handle the mess message"
+  },
+  "signInToContinue": "Sign in to continue",
+  "@signInToContinue": {
+    "description": "Sign in to continue message"
+  },
+  "passwordMustBeAtLeast8Characters": "Password must be at least 8 characters",
+  "@passwordMustBeAtLeast8Characters": {
+    "description": "Password must be at least 8 characters message"
+  },
+  "nameMustBeAtLeast2Characters": "Name must be at least 2 characters",
+  "@nameMustBeAtLeast2Characters": {
+    "description": "Name must be at least 2 characters message"
+  },
+  "alreadyHaveAnAccount": "Already have an account?",
+  "@alreadyHaveAnAccount": {
+    "description": "Already have an account message"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password label"
+  },
+  "pleaseConfirmYourPassword": "Please confirm your password",
+  "@pleaseConfirmYourPassword": {
+    "description": "Please confirm your password message"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Passwords do not match message"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name label"
+  },
+  "personalAccount": "Personal Account",
+  "@personalAccount": {
+    "description": "Personal account menu item"
+  },
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "description": "Change password menu item"
+  },
+  "frequentlyAskedQuestions": "Frequently Asked Questions",
+  "@frequentlyAskedQuestions": {
+    "description": "FAQ menu item"
+  },
+  "contactUs": "Contact Us",
+  "@contactUs": {
+    "description": "Contact us menu item"
+  },
+  "aboutTheApp": "About the App",
+  "@aboutTheApp": {
+    "description": "About the app menu item"
+  },
+  "step1": "Step 1",
+  "@step1": {
+    "description": "Step 1 label"
+  },
+  "step2": "Step 2",
+  "@step2": {
+    "description": "Step 2 label"
+  },
+  "step3": "Step 3",
+  "@step3": {
+    "description": "Step 3 label"
+  },
+  "step4": "Step 4",
+  "@step4": {
+    "description": "Step 4 label"
+  },
+  "step5": "Step 5",
+  "@step5": {
+    "description": "Step 5 label"
+  },
+  "selectServiceDate": "Select the service date that suits you",
+  "@selectServiceDate": {
+    "description": "Select service date title"
+  },
+  "selectTime": "Select Time",
+  "@selectTime": {
+    "description": "Select time title"
+  },
+  "pleaseSelectDateAndTime": "Please select date and time",
+  "@pleaseSelectDateAndTime": {
+    "description": "Please select date and time message"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "selectCleanerCount": "Select how many cleaners you need",
+  "@selectCleanerCount": {
+    "description": "Select cleaner count title"
+  },
+  "pleaseSelectCleanerCount": "Please select cleaner count",
+  "@pleaseSelectCleanerCount": {
+    "description": "Please select cleaner count message"
+  },
+  "selectCleaner": "Select your service provider",
+  "@selectCleaner": {
+    "description": "Select cleaner title"
+  },
+  "pleaseSelectCleaner": "Please select a service provider",
+  "@pleaseSelectCleaner": {
+    "description": "Please select cleaner message"
+  },
+  "shareLocationMessage": "Share your location so we can reach you on time 🚗✨",
+  "@shareLocationMessage": {
+    "description": "Share location message"
+  },
+  "shareCurrentLocation": "Share Current Location",
+  "@shareCurrentLocation": {
+    "description": "Share current location button"
+  },
+  "locationPrivacy": "Your location is used only to determine the service location and will not be shared with any other party.",
+  "@locationPrivacy": {
+    "description": "Location privacy message"
+  },
+  "pleaseSelectLocation": "Please select a location first",
+  "@pleaseSelectLocation": {
+    "description": "Please select location message"
+  },
+  "whatIsYourPhoneNumber": "What is your phone number?",
+  "@whatIsYourPhoneNumber": {
+    "description": "What is your phone number title"
+  },
+  "phoneNumberDescription": "We need your number so we can contact you to confirm the booking.",
+  "@phoneNumberDescription": {
+    "description": "Phone number description"
+  },
+  "orderPrice": "Order Price",
+  "@orderPrice": {
+    "description": "Order price label"
+  },
+  "book": "Book",
+  "@book": {
+    "description": "Book button text"
+  },
+  "bookingSuccessful": "Booking Successful",
+  "@bookingSuccessful": {
+    "description": "Booking successful message"
+  },
+  "transactionNumber": "Transaction Number",
+  "@transactionNumber": {
+    "description": "Transaction number label"
+  },
+  "cleaners": "Cleaners",
+  "@cleaners": {
+    "description": "Cleaners label"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Date label"
+  },
+  "service": "Service",
+  "@service": {
+    "description": "Service label"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time label"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location label"
+  },
+  "cleanerCount": "Cleaner Count",
+  "@cleanerCount": {
+    "description": "Cleaner count label"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Done button text"
+  },
+  "needWorkers": "{count, plural, =1{You need one worker} =2{You need two workers} other{You need {count} workers}}",
+  "@needWorkers": {
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "canSelectWorkers": "{count, plural, =1{You can only select one worker} other{You can only select {count} workers}}",
+  "@canSelectWorkers": {
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "searchRecommendations": "Search Recommendations",
+  "@searchRecommendations": {
+    "description": "Search recommendations title"
+  },
+  "currentLocation": "Current Location",
+  "@currentLocation": {
+    "description": "Current location title"
+  },
+  "errorOccurredWhileSearching": "Error occurred while searching",
+  "@errorOccurredWhileSearching": {
+    "description": "Error occurred while searching message"
+  },
+  "noResultsFound": "No results found",
+  "@noResultsFound": {
+    "description": "No results found message"
+  },
+  "experienceMonths": "{months, plural, =0{Experience: Less than a month} =1{Experience: One month} other{Experience: {months} months}}",
+  "@experienceMonths": {
+    "placeholders": {
+      "months": {
+        "type": "num"
+      }
+    }
+  },
+  "errorLoadingData": "Error loading data",
+  "selectedWorkers": "Selected {selected} of {total} workers",
+  "@selectedWorkers": {
+    "placeholders": {
+      "selected": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "couldNotGetLocation": "Could not get your location, use the map to select a place.",
+  "bookNow": "Book Now",
+  "defaultServiceDescription": "Choose the type of service you need, set the time and place. Leave the rest to us.",
+  "wallet": "Wallet",
+  "@wallet": {
+    "description": "Wallet screen title"
+  },
+  "addFunds": "Add Funds",
+  "@addFunds": {
+    "description": "Add funds button text"
+  },
+  "transactionHistory": "Transaction History",
+  "@transactionHistory": {
+    "description": "Transaction history header"
+  },
+  "noTransactions": "No transactions",
+  "@noTransactions": {
+    "description": "No transactions message"
+  },
+  "availableBalance": "Available Balance",
+  "@availableBalance": {
+    "description": "Available balance label"
+  },
+  "fundsAddedSuccessfully": "Funds added successfully",
+  "@fundsAddedSuccessfully": {
+    "description": "Funds added successfully message"
+  },
+  "paymentFailed": "Payment failed",
+  "@paymentFailed": {
+    "description": "Payment failed message"
+  },
+  "deposit": "Deposit",
+  "@deposit": {
+    "description": "Deposit transaction type"
+  },
+  "withdrawal": "Withdrawal",
+  "@withdrawal": {
+    "description": "Withdrawal transaction type"
+  },
+  "payment": "Payment",
+  "@payment": {
+    "description": "Payment transaction type"
+  },
+  "failed": "Failed",
+  "@failed": {
+    "description": "Failed status"
+  },
+  "moamalat": "Moamalat",
+  "@moamalat": {
+    "description": "Moamalat payment title"
+  },
+  "cancelPaymentConfirmation": "Are you sure you want to cancel the payment?",
+  "@cancelPaymentConfirmation": {
+    "description": "Cancel payment confirmation message"
+  },
+  "quickAmounts": "Quick Amounts",
+  "@quickAmounts": {
+    "description": "Quick amounts section title"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "pleaseEnterAmount": "Please enter the amount",
+  "@pleaseEnterAmount": {
+    "description": "Please enter amount validation message"
+  },
+  "pleaseEnterValidAmount": "Please enter a valid amount",
+  "@pleaseEnterValidAmount": {
+    "description": "Please enter valid amount validation message"
+  },
+  "errorAddingFunds": "An error occurred while adding funds",
+  "@errorAddingFunds": {
+    "description": "Error adding funds message"
+  },
+  "noCleanersAvailableForDate": "No cleaners available on this date for this service",
+  "@noCleanersAvailableForDate": {
+    "description": "Message shown when no cleaners are available for a date and service"
+  }
+}
