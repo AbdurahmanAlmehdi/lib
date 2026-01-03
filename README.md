@@ -1,5 +1,15 @@
 # Buzzy Bee
 
+_A School Project_
+
+## Project Team
+
+- **Student 1:** عبدالرحمن المهدي ابراهيم
+- **Student 2:** رغداعمار سعيد
+- **Student 3:** ارجوان سمير العائب
+
+---
+
 A Flutter-based mobile application for booking cleaning services. Buzzy Bee connects customers with professional cleaners, allowing users to browse services, select cleaners, schedule appointments, and manage their bookings seamlessly.
 
 ## App Overview
